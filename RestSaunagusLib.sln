@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSaunagusLib", "RestSaunagusLib\RestSaunagusLib.csproj", "{00C6254B-AB1F-420D-9D85-586D822E4B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSaunagusAPI", "RestSaunagusAPI\RestSaunagusAPI.csproj", "{EF89CBEB-01ED-4124-876B-59B7E696203F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaunagusTest", "SaunagusTest\SaunagusTest.csproj", "{0C53E932-3549-4BAB-B93F-592B913FEF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C6254B-AB1F-420D-9D85-586D822E4B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C6254B-AB1F-420D-9D85-586D822E4B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C6254B-AB1F-420D-9D85-586D822E4B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C6254B-AB1F-420D-9D85-586D822E4B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF89CBEB-01ED-4124-876B-59B7E696203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF89CBEB-01ED-4124-876B-59B7E696203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF89CBEB-01ED-4124-876B-59B7E696203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF89CBEB-01ED-4124-876B-59B7E696203F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C53E932-3549-4BAB-B93F-592B913FEF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C53E932-3549-4BAB-B93F-592B913FEF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C53E932-3549-4BAB-B93F-592B913FEF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C53E932-3549-4BAB-B93F-592B913FEF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
